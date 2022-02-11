@@ -8,6 +8,6 @@
 [Figma](https://www.figma.com/)  
 
 ## Back End
-[PHP](https://www.w3schools.com/php/default.asp)
-[SQL](https://www.w3schools.com/sql/default.asp)
-[Node.js](https://www.w3schools.com/nodejs/default.asp)
+[PHP](https://www.w3schools.com/php/default.asp)  
+[SQL](https://www.w3schools.com/sql/default.asp)  
+[Node.js](https://www.w3schools.com/nodejs/default.asp)  
